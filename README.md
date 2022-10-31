@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I love working with the latest technologies and creating solutions to the world's problems!
+
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/justin-m-chung/)!
 
 ## 🛠 Tools I use
