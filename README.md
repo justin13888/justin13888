@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I love working with the latest technologies and creating solutions to the world's problems!
+I build open-source stuff here.
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/justin-m-chung/)!
+Fun fact: I daily Fedora Linux and use arch btw.
 
 ## 🛠 Tools I use
 
