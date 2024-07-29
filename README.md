@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I build open-source stuff here.
-
-Fun fact: I daily Fedora Linux and use arch btw.
+I build open-source stuff here mainly on my Linux desktops
 
 ## 🛠 Tools I use
 
