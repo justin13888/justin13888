@@ -14,39 +14,32 @@ I build open-source stuff here mainly on my Linux desktops
 
 [![Alacritty](https://img.shields.io/badge/Emulator-Alacritty-F46D01?labelColor=111111&style=flat&logo=windowsterminal&logoColor=white)](https://alacritty.org/)
 [![ZSH](https://img.shields.io/badge/Terminal-ZSH-4EAA25?labelColor=111111&style=flat&logo=gnu-bash&logoColor=white)](https://github.com/zsh-users/zsh)
+[![Starship](https://img.shields.io/badge/Shell%20Prompt-Starship-DD0B78?labelColor=111111&style=flat&logo=starship&logoColor=white)](https://starship.rs/)
 
 ### Languages
 
-![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+[![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
 
 ### Web
 
-![Docker](https://img.shields.io/badge/Docker-46a2f1?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-46a2f1?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 ![RedHat OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-000000?style=flat&logo=astro&logoColor=BC52EE)
-![Solid](https://img.shields.io/badge/Solid-2C4F7C?style=flat&logo=solid&logoColor=white)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Astro](https://img.shields.io/badge/Astro-000000?style=flat&logo=astro&logoColor=BC52EE)](https://astro.build/)
+[![Solid](https://img.shields.io/badge/Solid-2C4F7C?style=flat&logo=solid&logoColor=white)](https://www.solidjs.com/)
 
 #### Machine Learning / Data Science
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=flat&logo=huggingface&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-#### Cloud
-
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://github.com/tensorflow/tensorflow)
+[![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=flat&logo=huggingface&logoColor=white)](https://github.com/huggingface/transformers)
+[![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)](https://spark.apache.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
