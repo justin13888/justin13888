@@ -8,7 +8,6 @@ I build open-source stuff here mainly on my Linux desktops
 
 [![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-4492d1?labelColor=111111&style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Fedora](https://img.shields.io/badge/OS-Fedora-65a1da?labelColor=111111&style=flat&logo=fedora&logoColor=white)](https://getfedora.org/)
-[![Debian](https://img.shields.io/badge/Server_OS-Debian-A81D33?labelColor=111111&style=flat&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Alpine](https://img.shields.io/badge/Server_OS-Rocky%20Linux-43b47c?labelColor=111111&style=flat&logo=rocky-linux&logoColor=white)](https://alpinelinux.org/)
 [![VS Code](https://img.shields.io/badge/Editor-VS_Code-0078D4?labelColor=111111&style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?labelColor=111111&style=flat&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
@@ -35,7 +34,8 @@ I build open-source stuff here mainly on my Linux desktops
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-000000?style=flat&logo=astro&logoColor=BC52EE)
+![Solid](https://img.shields.io/badge/Solid-2C4F7C?style=flat&logo=solid&logoColor=white)
 
 #### Machine Learning / Data Science
 
