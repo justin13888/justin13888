@@ -27,14 +27,15 @@ I build open-source stuff here mainly on my Linux desktops
 
 ### Web
 
-[![Docker](https://img.shields.io/badge/Docker-46a2f1?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-![RedHat OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
-
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Astro](https://img.shields.io/badge/Astro-000000?style=flat&logo=astro&logoColor=BC52EE)](https://astro.build/)
 [![Solid](https://img.shields.io/badge/Solid-2C4F7C?style=flat&logo=solid&logoColor=white)](https://www.solidjs.com/)
+
+
+[![Docker](https://img.shields.io/badge/Docker-46a2f1?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+![RedHat OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
 
 #### Machine Learning / Data Science
 
